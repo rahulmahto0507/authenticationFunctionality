@@ -1,0 +1,9 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.list-element {
+  margin-right: 20px;
+}
